@@ -2,7 +2,7 @@
 
 Please add slides and/or notes from your previous (or upcoming) talk:
 
-1. Fork it, add your PDF (or other) to a new directory, and [/technologieplauscherl/talk-archive/pulls?q=is%3Aopen+is%3Apr](create a Pull Request)
-2. Open a new [/technologieplauscherl/talk-archive/issues/new](issue) and shoot some links (preferably on [https://speakerdeck.com/](SpeakerDeck))
+1. Fork it, add your PDF (or other) to a new directory, and [create a Pull Request](/technologieplauscherl/talk-archive/pulls?q=is%3Aopen+is%3Apr)
+2. Open a new [issue](/technologieplauscherl/talk-archive/issues/new) and shoot some links (preferably on [SpeakerDeck](https://speakerdeck.com/))
 
 We highly appreciate it!
